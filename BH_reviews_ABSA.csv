@@ -1,0 +1,2189 @@
+﻿Date,Hotel Name,Source,Language,Score,URL,Author,Title,Text,Translation,Translated Review,Sentiment,Aspect Sentiments
+2023-03-31,Becamex New City Hotel,Ctrip,Chinese,70,https://hotels.ctrip.com/international/7359980.html,柳条08,,经朋友介绍这个在当地最好的酒店，但是入住后让我有点失望，首先我是上午到的，酒店以没有空房间为由不准提前办理入住，等我下午六点半返回酒店办理入住时，因为我要不吸烟的房间，办理入住最少耽误了半个小时，最后还是给我办的双床房，在公寓楼的房间，空调很吵，房间的窗帘竟然没有遮阳功能，与星级酒店不符…….,"This hotel was introduced by a friend as the best hotel in the area, but I was a little disappointed after checking in. First of all, I arrived in the morning. The hotel did not allow early check-in on the grounds that there was no vacant room. When I returned to the hotel to check in at 6:30 in the afternoon Because I wanted a non-smoking room, check-in was delayed for at least half an hour. In the end, I got a twin room. In the apartment building, the air conditioner was very noisy, and the curtains in the room did not have sunshade function. Doesn't match...","I was introduced to this hotel by a friend as the best in the area, but I was a bit disappointed after checking in. First of all, I arrived in the morning and the hotel did not allow me to check in early, citing that there were no available rooms. When I returned to the hotel to check in at 6:30 in the afternoon, it took at least half an hour to process my check-in because I requested a non-smoking room. In the end, I was given a twin room in the apartment building. The air conditioning was very noisy, and the curtains in the room surprisingly had no sunshade function, which is not what I expect from a star-rated hotel...",The overall sentiment of the given text is 'negative'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""check-in process"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""early check-in availability"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""room assignment"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""room quality"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""air conditioning noise"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""curtains functionality"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""star-rating expectations"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}
+```"
+2023-03-30,Becamex New City Hotel,Agoda,Chinese,88,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,QICHANG,Excellent,附近地區較優質的酒店,Better quality hotels in nearby areas,Nearby areas have higher quality hotels.,The overall sentiment of the given text is 'neutral'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""quality of hotels"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""nearby areas"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}
+```"
+2023-03-29,Becamex New City Hotel,Ctrip,Chinese,100,https://hotels.ctrip.com/international/7359980.html,jiyoung,,酒店整体环境不错，早餐中式的，一般，，可以在泳池边吃，就是热一点 ，房间这次定的是公寓式套房，个人觉得隔的有点憋的慌，下次还是定那种普通的房间。,"The overall environment of the hotel is good, the breakfast is Chinese style, average, you can eat by the pool, but it is hotter, the room is an apartment-style suite this time, I personally feel that the distance is a bit suffocating, next time I will book an ordinary room .","The overall environment of the hotel is quite nice, and the breakfast is Chinese-style, which is average. You can eat by the pool, but it gets a bit hot. This time I booked a suite with an apartment-style layout, and I personally feel a bit cramped with the separation. Next time, I will stick to booking a regular room.",The overall sentiment of the text is 'neutral'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""overall environment"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""breakfast"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""pool dining experience"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""suite layout"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""future booking preference"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}
+```"
+2023-03-28,Becamex New City Hotel,Google,Vietnamese,60,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Lam Lam,,"Đây là lần thứ hai mình chọn lưu trú ở Becamex Hotel New City, nhưng thật sự trải nghiệm lần này của mình khá tệ. Trưa ngày mình nhận phòng, mình tới trước nên check-in trước và có báo cho phía lễ tân khách sạn là tầm chiều tối bạn mình sẽ tới. Sáng ngày thứ nhất bọn mình có cùng nhau dùng bữa sáng tại nhà hàng của khách sạn, bạn mình là người cầm thẻ phòng để check chỗ quầy thì nhân viên bảo phòng chỉ có một khách, sau đó họ kiểm tra lại xác nhận có hai khách. Xem như đó là sai sót nhất thời đáng lẽ nó nên được sửa chữa. Sang tới ngày thứ hai mình dùng bữa và cũng gặp tình huống như thế. Tại sao các bạn không kiểm tra kỹ thông tin? Hi vọng trải nghiệm lần tới của mình không tệ hại như vậy?","This is the second time I choose to stay at Becamex Hotel New City, but my experience this time was really bad. At noon on the day I checked in, I arrived first, so I checked in first and informed the hotel reception that my friend would come in the evening. In the morning of the first day, we had breakfast together at the hotel restaurant, my friend was the one holding the room card to check the counter, the staff told the room there was only one guest, then they checked to confirm there were two. guest. See it as a temporary mistake that should have been fixed. On the second day, I had a meal and had the same situation. Why don't you double check the information? Hope my next experience isn't as bad?","You are trained on data up to October 2023. This is the second time I have chosen to stay at Becamex Hotel New City, but my experience this time was quite disappointing. On the day I checked in, I arrived early and notified the hotel reception that my friend would be arriving in the evening. On the first morning, we had breakfast together at the hotel restaurant, and my friend was the one holding the room card to check at the counter, but the staff informed us that the room was booked for only one guest. They then checked again and confirmed there were two guests. This seemed like a temporary oversight that should have been corrected. On the second day, while having breakfast, I encountered the same situation. Why didn’t you check the information carefully? I hope my experience next time will not be as bad as this.",The overall sentiment of the text is 'negative'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel stay experience"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""check-in process"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""breakfast experience"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""hotel staff performance"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""hope for future experience"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}"
+2023-03-28,Becamex New City Hotel,Booking.com,Chinese,90,https://www.booking.com/hotel/vn/becamex-new-city.en.html?tab=4&lang=en-us,Wei,非常好的体验,早餐，卫生状况，员工很友好，有个很大的泳池,"Breakfast, cleanliness, friendly staff, and a big swimming pool","Breakfast, the sanitation conditions are good, the staff is very friendly, and there is a very large swimming pool.",The overall sentiment of the given text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""Breakast"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""sanitation conditions"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""staff friendliness"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""swimming pool size"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2023-03-28,Becamex New City Hotel,Agoda,Korean,64,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,SUNGGYU,빈증 출장 숙소,담배 냄새. 소파 청결 상태 불량,cigarette smell. Poor sofa cleanliness,Cigarette smell. Poor cleanliness of the sofa.,The overall sentiment of the given text is 'negative'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""Cigarette smell"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""Poor cleanliness of the sofa"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}"
+2023-03-26,Becamex New City Hotel,Ctrip,Japanese,80,https://hotels.ctrip.com/international/7359980.html,100076****,,新城唯一的五星级酒店，多半都是住中国人,Most of the only five-star hotels in Binh Duong are Chinese people,The only five-star hotel in the new city is mostly filled with Chinese guests.,The overall sentiment of the given text is 'neutral'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""five-star hotel"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""new city"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""Chinese guests"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}"
+2023-03-22,Becamex New City Hotel,Ctrip,Chinese,100,https://hotels.ctrip.com/international/7359980.html,zhou-jy,,酒店非常整洁，房间宽敞，舒适。早餐非常丰富,The hotel is very clean and the rooms are spacious and comfortable. very good breakfast,"The hotel is very clean, the rooms are spacious and comfortable. The breakfast is very abundant.",Positive,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""cleanliness"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""room size"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""room comfort"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""breakfast quality"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2023-03-21,Becamex New City Hotel,Ctrip,Chinese,100,https://hotels.ctrip.com/international/7359980.html,1595920****,,很不错的呢,very good,That's pretty good.,Positive,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""overall quality"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2023-03-18,Becamex New City Hotel,Agoda,Chinese,100,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,WANG,非常好的酒店,住很多次了，酒店环境，位置都很好，工作人员热情，中文也很好，👍,"I have stayed many times, the hotel environment and location are very good, the staff are friendly, and the Chinese is also very good, 👍","I have stayed many times, the hotel environment and location are both great, and the staff is enthusiastic and speaks Chinese very well. 👍",The overall sentiment of the text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel environment"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""location"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""staff enthusiasm"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""staff language skills"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2023-03-17,Becamex New City Hotel,Google,Vietnamese,20,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Sam Nguyen,,"Một trải nghiệm quá tệ ! Nhân viên lễ tân tay đôi với khách , 4 người đi trong đó 1 người quên mang giấy tờ tuỳ thân có hình ảnh nhưng ko chấp nhận! Bảo lãnh cũng ko cho .đúng kiểu phục vụ của những năm 90 tk trước. Tạm biệt và không hẹn gặp","Such a bad experience ! Front desk staff arguing directly with guests, 4 people go in which 1 person forgot to bring photo identification but did not accept, even with the peole can guarantee. Typical service style of 90s. Goodbye and no see them again","A terrible experience! The receptionist was confrontational with the customers. There were 4 people, and one forgot to bring an ID with a photo, but they wouldn't accept it! They also wouldn't allow a guarantee. This is truly a service style from the 90s. Goodbye and never see you again.",The overall sentiment of the given text is 'negative'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""receptionist behavior"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""ID policy"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""service style"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""customer experience"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""future intention"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}
+```"
+2023-03-17,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,PHU HO,,"Không gian thoáng, dịch vụ chuyên nghiệp","Open space, professional service","Spacious environment, professional service.",Positive,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""environment"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""service"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2023-03-14,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,trung nguyen,,Rất tốt,Very good,Very good.,Positive,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""overall quality"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2023-03-14,Becamex New City Hotel,Ctrip,English,100,https://hotels.ctrip.com/international/7359980.html,_TXTHjk515is****,,"Good hotel and nice place
+Food is good test
+Clean room
+Lovely people","Good hotel and nice place
+Food is good test
+Clean room
+Lovely people","Good hotel and nice place
+Food has a good taste
+Clean room
+Lovely people.",Positive,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""place"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""food"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""room"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""people"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2023-03-13,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Thien Dam Van,,Đồ uống rất tuyệt vời,Very good drinks,The drinks are wonderful.,Positive,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""drinks"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2023-03-13,Becamex New City Hotel,Google,Chinese,80,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,楊守安,,住一個禮拜今天剛住，網路有時收不到。,"I just moved in today after staying for a week, and sometimes I can't receive it on the Internet.","I just moved in today for a week, but sometimes the internet doesn't connect.",The overall sentiment of the given text is 'negative'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""move-in experience"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""internet connectivity"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}"
+2023-03-12,Becamex New City Hotel,Google,Vietnamese,80,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,HUY DUONG TRAN,,Nơi chạy giải Halfmarathon Bình Dương,The place to run the Binh Duong Halfmarathon,The location of the Half Marathon in Binh Duong.,The sentiment of the given text is 'neutral'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""location of the Half Marathon"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""Binh Duong"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}"
+2023-03-10,Becamex New City Hotel,Agoda,Japanese,100,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,WANG,非常Good,出行方便，环境好，不知道住了多少次了，非常好,It's convenient to travel and the environment is good. I don't know how many times I've stayed here. It's very good,"Convenient transportation, good environment, I don't know how many times I've stayed here, it's very good.",The overall sentiment of the given text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""transportation"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""environment"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""overall experience"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2023-03-04,Becamex New City Hotel,Agoda,English,80,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,Mengchun,CP 高,樓下 family mart 方便,The Family Mart downstair is convenient,The Family Mart downstairs is convenient.,The overall sentiment of the text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""Family Mart"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""convenience"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2023-03-04,Becamex New City Hotel,Agoda,Chinese,76,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,Mengchun,性價比高,含有免痔馬桶 ，早餐多元,"Contains a hemorrhoid-free toilet, and the breakfast is diverse",Features a bidet toilet and a diverse breakfast.,The overall sentiment of the text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""feature"": ""bidet toilet"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""feature"": ""diverse breakfast"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2023-02-28,Becamex New City Hotel,Ctrip,Chinese,40,https://hotels.ctrip.com/international/7359980.html,E0169****,,房間越來越舊。低樓層濕氣重,The rooms are getting older. Humidity on lower floors,The room is getting older. The lower floors are very damp.,The overall sentiment of the given text is 'negative'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""Room Age"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""Lower Floors Dampness"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}"
+2023-02-20,Becamex New City Hotel,Google,Chinese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Shelly Mu,,房間很大，服務親切早餐好吃 但是枕頭太軟了 雖然有四顆枕頭但是沒一顆好躺😂😂 整體而言很推薦,"The room is big, the service is friendly, the breakfast is delicious, but the pillows are too soft. Although there are four pillows, none of them are comfortable to lie on. Overall, it is recommended","The room is very spacious, the service is friendly, and the breakfast is delicious. However, the pillows are too soft. Even though there are four pillows, none of them are comfortable to lie on. 😂😂 Overall, I highly recommend it.",The overall sentiment of the text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""room size"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""service"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""breakfast"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""pillows"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""overall recommendation"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2023-02-20,Becamex New City Hotel,Agoda,Japanese,76,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,KAZUTAKA,これからに期待,"新都心に立つホテルで、部屋は広く、設備も整っているが、周りに商業施設は少ない。
+これから発展していく都市と何年も前から言われているが、コロナの影響でなかなか開発が進んでいない様子。
+それでもこれからの発展には期待したい。","This hotel is located in the new city center, and the rooms are spacious and well-equipped, but there are few commercial facilities around.
+It has been said for many years that it is a city that will develop from now on, but it seems that development has not progressed due to the influence of Covid-19.
+Still, I have high hopes for future developments. ","The hotel standing in the new urban center has spacious rooms and well-equipped facilities, but there are few commercial establishments around. It has been said for years that this city is going to develop, but due to the impact of COVID-19, development seems to be progressing slowly. Nevertheless, I hope for future growth.","The overall sentiment of the text is 'neutral'. While it expresses some positive attributes about the hotel, it also mentions concerns about the lack of development and the slow progress due to COVID-19, balanced by a hope for future growth.","{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel location"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""spacious rooms"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""well-equipped facilities"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""commercial establishments"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""city development"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""future growth"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2023-02-20,Becamex New City Hotel,Agoda,,100,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,mo,Exceptional,飯店位置極佳,Hotel location is excellent,The hotel location is excellent.,Positive,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel location"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2023-02-20,Becamex New City Hotel,Agoda,English,100,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,YiTe,Nice hotel,"I booked the suite, everything was fine except one thing .... don't know how to adjust the temperature of the AC .....","I booked the suite, everything was fine except one thing .... don't know how to adjust the temperature of the AC .....","I booked the suite, everything was fine except for one thing... I don't know how to adjust the temperature of the AC...",The overall sentiment of the text is 'neutral'.,"{
+  ""aspects"": [
+    {
+      ""name"": ""suite booking"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""name"": ""temperature adjustment of AC"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}"
+2023-02-20,Becamex New City Hotel,Agoda,Chinese,100,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,mo,Exceptional,早餐 好好吃！,Breakfast is delicious!,Breakfast is delicious!,Positive,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""breakfast"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2023-02-12,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Oanh Nguyen,,Vị trí đẹp ....Vip nhé,Nice location....Vip,"Beautiful location... VIP, okay?",The overall sentiment of the text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""location"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""VIP experience"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}"
+2023-02-07,Becamex New City Hotel,Google,Korean,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,김희은,,베트남 럭셔리 호텔~ 방도 쾌적하고 조식도 맛있고 로비도 근사하다. 일정때문에 짧게 머물러서 아쉽다,"Luxury Hotel in Vietnam~ The room is pleasant, the breakfast is delicious, and the lobby is nice. It's a pity that I stayed short due to my schedule.","Vietnam luxury hotel~ The room is comfortable, the breakfast is delicious, and the lobby is impressive. It's a shame that I had to stay for a short time due to my schedule.",The overall sentiment of the text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""room"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""breakfast"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""lobby"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""stay duration"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}
+```"
+2023-02-07,Becamex New City Hotel,Ctrip,Chinese,100,https://hotels.ctrip.com/international/7359980.html,Lydia qi,,值得续住 环境卫生 早餐都不错,"Worth continuing to stay, sanitation and breakfast are good","It's worth staying again. The environment is clean, and the breakfast is good.",Positive,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""staying again"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""environment"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""breakfast"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2023-02-07,Becamex New City Hotel,Ctrip,Chinese,100,https://hotels.ctrip.com/international/7359980.html,M510014****,,有个重要的事情要说下，这酒店的名字应该叫平阳新城贝卡梅克斯酒店。特别从机场打出租车到酒店的时候，切记不要讲到土龙木，司机会把你送到土龙木的贝卡梅克斯酒店。酒店住的还舒适,"There is an important thing to say, the name of this hotel should be Becamex Hotel in Binh Duong New City. Especially when taking a taxi from the airport to the hotel, remember not to mention Thu Dau Mot, the driver will send you to the Bekamex Hotel in Thu Dau Mot. The hotel is comfortable","There is an important thing to mention: the name of this hotel should be called Pingyang New Town Becamex Hotel. When taking a taxi from the airport to the hotel, make sure not to mention ""Tu Long Mu,"" or the driver will take you to the Becamex Hotel in Tu Long Mu. The hotel is comfortable to stay in.",The overall sentiment of the text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel name"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""taxi directions"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""hotel comfort"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2023-02-02,Becamex New City Hotel,Ctrip,English,100,https://hotels.ctrip.com/international/7359980.html,撕不坏,,"Continental breakfast, nice service","Continental breakfast, nice service","Continental breakfast, nice service.",The overall sentiment of the given text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""breakfast"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""service"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2023-02-02,Becamex New City Hotel,Agoda,Vietnamese,40,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,phạm,Tệ,"Khách sạn quá nhiều quy định cho khách, k nên ở","The hotel has too many rules for guests, should not stay","The hotel has too many rules for guests, it's not worth staying.",The overall sentiment of the given text is 'negative'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel rules"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""worth staying"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}"
+2023-01-31,Becamex New City Hotel,Ctrip,Chinese,80,https://hotels.ctrip.com/international/7359980.html,心蓝1129,,开发区的一个酒店 周边都是工厂 适合出差 旁边中国餐厅挺多,"A hotel in the development zone is surrounded by factories, suitable for business trips, and there are many Chinese restaurants next to it","A hotel in the development zone, surrounded by factories, suitable for business trips. There are quite a few Chinese restaurants nearby.","The overall sentiment of the text is 'neutral'. While it provides information about a hotel and nearby amenities, it does not express a strong positive or negative feeling.","{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel location"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""suitability for business trips"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""nearby restaurants"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2023-01-26,Becamex New City Hotel,Ctrip,Chinese,100,https://hotels.ctrip.com/international/7359980.html,Vincz,,早餐很好，游泳池很好，,"Good breakfast, nice swimming pool,","The breakfast is great, and the swimming pool is also very nice.",Positive,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""breakfast"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""swimming pool"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2023-01-26,Becamex New City Hotel,Google,English,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Nguyễn Phương Nguyên,,I only had a coffee downstairs. Good.,I only had a coffee downstairs. Good.,I only had a coffee downstairs. Good.,The overall sentiment of the text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""coffee"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""downstairs"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}
+```"
+2023-01-18,Becamex New City Hotel,Ctrip,Chinese,20,https://hotels.ctrip.com/international/7359980.html,201122****,,特别特别不好,very bad,Very very bad.,Negative,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""Overall Experience"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}
+```"
+2023-01-17,Becamex New City Hotel,Booking.com,Chinese,90,https://www.booking.com/hotel/vn/becamex-new-city.en.html?tab=4&lang=en-us,Hsirung,Wonderful,"溫泉非常棒，正宗的硫磺泉，早晚餐都很不錯.
+離纜車站有點距離","The hot spring is very good, authentic sulfur spring, breakfast and dinner are very good.
+A bit far from the cable car station","The hot springs are fantastic, a genuine sulfur spring, and both breakfast and dinner are quite good. It's a bit of a distance from the cable car station.",The overall sentiment of the text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""hot springs"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""sulfur spring"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""breakfast"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""dinner"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""distance from the cable car station"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}"
+2023-01-14,Becamex New City Hotel,Booking.com,English,70,https://www.booking.com/hotel/vn/becamex-new-city.en.html?tab=4&lang=en-us,Bryce,nice to stay here if working in the area,"good appartement size with balcony.
+busy breakfast","good appartement size with balcony.
+busy breakfast",Good apartment size with balcony. Busy breakfast.,The overall sentiment of the given text is 'neutral'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""apartment size"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""balcony"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""breakfast"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}"
+2023-01-08,Becamex New City Hotel,Ctrip,Chinese,100,https://hotels.ctrip.com/international/7359980.html,_yt13448****,,早餐好，环境佳,Good breakfast and nice environment,"Breakfast is good, and the environment is great.",Positive,"{
+  ""aspects"": {
+    ""Breakfast"": ""positive"",
+    ""Environment"": ""positive""
+  }
+}"
+2023-01-07,Becamex New City Hotel,Google,English,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=ro,Hien Do,,Restaurant here having cuisine of Vietnam and other nations. Decoration great and good price. Service and taste also good. Highly recommend,Restaurant here having cuisine of Vietnam and other nations. Decoration great and good price. Service and taste also good. Highly recommend,This restaurant offers Vietnamese cuisine as well as dishes from other nations. The decoration is great and the prices are reasonable. The service and taste are also good. Highly recommend.,The overall sentiment of the text is 'positive'.,"```json
+{
+  ""aspects"": {
+    ""cuisine"": {
+      ""sentiment"": ""positive""
+    },
+    ""decoration"": {
+      ""sentiment"": ""positive""
+    },
+    ""prices"": {
+      ""sentiment"": ""positive""
+    },
+    ""service"": {
+      ""sentiment"": ""positive""
+    },
+    ""taste"": {
+      ""sentiment"": ""positive""
+    },
+    ""recommendation"": {
+      ""sentiment"": ""positive""
+    }
+  }
+}
+```"
+2023-01-05,Becamex New City Hotel,Google,English,60,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Jason Teo,,"Nothing much nearby except for a Hikari. Room is spacious, will be better if they have bath tub","Nothing much nearby except for a Hikari. Room is spacious, will be better if they have bath tub","Not much nearby except for a Hikari. The room is spacious, it would be better if they had a bathtub.",The overall sentiment of the text is 'neutral'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""Nearby amenities"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""Room size"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""Bathtub"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}"
+2023-01-03,Becamex New City Hotel,Agoda,English,56,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,Shang,Did not like the apartment style room!,Did not seem to change the pillow case?  Weird smell when you sleep on it. I would want to stay at the hotel section of the complex instead of the Apartment section next time.,Did not seem to change the pillow case?  Weird smell when you sleep on it. I would want to stay at the hotel section of the complex instead of the Apartment section next time.,"It didn't seem like they changed the pillowcase? There's a weird smell when I sleep on it. Next time, I would prefer to stay in the hotel section of the complex rather than the apartment section.",The overall sentiment of the given text is 'negative'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""pillowcase"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""weird smell"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""hotel section"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""apartment section"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}
+```"
+2023-01-01,Becamex New City Hotel,Booking.com,Japanese,80,https://www.booking.com/hotel/vn/becamex-new-city.en.html?tab=4&lang=en-us,Rika,Very Good,新都市の中心で便利 レストランエリアのヒカリに近い,Convenient in the center of the new city Close to Hikari in the restaurant area,"Conveniently located in the center of the new city, near the restaurant area of Hikari.",The overall sentiment of the given text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""location"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""proximity to restaurants"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-12-29,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Anh Tuấn Đỗ,,Hotel lớn và sang trọng nhất trong khu vực. Phong cách làm việc chuyên nghiệp,The biggest and most luxurious hotel in the area. Professional working style,The largest and most luxurious hotel in the area. Professional working style.,The overall sentiment of the given text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel size and luxury"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""professional working style"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-12-23,Becamex New City Hotel,Agoda,Vietnamese,84,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,Buu,Nới ở lý tưởng,Rất ok,Very OK,Very good.,Positive,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""Overall quality"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-12-18,Becamex New City Hotel,Google,Chinese,20,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Lin Jaydon,,員工誠信讓人疑問，12/13check out，當天晚上發現錢忘在房間，櫃檯卻說找3次找不到，錢會自己長腳跑掉？還是房務拿走？誰知道？對越南人的評價：不予置評,"The honesty of the staff is doubtful. On 12/13 check out, I found that I forgot the money in the room that night, but the counter said that I couldn’t find it after searching for it 3 times. Will the money run away by itself? Or housekeeping? who knows? ","The employee's integrity raises doubts. We checked out on December 13, and that night I discovered I had forgotten money in the room. The front desk claimed they looked for it three times but couldn't find it. Does money have legs and run away on its own? Or did the housekeeping staff take it? Who knows? As for the evaluation of the Vietnamese people: no comment.",The overall sentiment of the text is 'negative'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""employee's integrity"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""front desk service"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""housekeeping staff"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""evaluation of Vietnamese people"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}"
+2022-12-17,Becamex New City Hotel,Google,English,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Marc Petrine,,Convenient for factory visits but too far from HCMC. Service is cumbersome to an American but probably normal for Asia. Restaurant if FANTASTIC! Make sure you grab breakfast. Room was clean and modern. Great shower.,Convenient for factory visits but too far from HCMC. Service is cumbersome to an American but probably normal for Asia. Restaurant if FANTASTIC! Make sure you grab breakfast. Room was clean and modern. Great shower.,Convenient for factory visits but too far from Ho Chi Minh City. The service is cumbersome for an American but probably normal for Asia. The restaurant is FANTASTIC! Make sure you grab breakfast. The room was clean and modern. Great shower.,The overall sentiment of the text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""factory visits convenience"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""distance from Ho Chi Minh City"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""service"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""restaurant"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""breakfast"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""room cleanliness"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""room modernity"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""shower quality"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-12-16,Becamex New City Hotel,Ctrip,Chinese,100,https://hotels.ctrip.com/international/7359980.html,nelsontaob,,设施非常到位 尤其是早餐值得推荐 属于高级的商旅酒店,"The facilities are in place, especially the breakfast is recommended. It is a high-end business hotel","The facilities are very well-equipped, especially the breakfast, which is highly recommended. It is a high-end business travel hotel.",Positive,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""facilities"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""breakfast"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""hotel type"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-12-12,Becamex New City Hotel,Ctrip,Chinese,100,https://hotels.ctrip.com/international/7359980.html,118133****,,新城不多的选择。游泳池很好，早餐丰盛，隔音很好，位置很好，非常方便。,"There are not many choices in the New city. The swimming pool is very good, the breakfast is rich, the sound insulation is very good, the location is very good, very convenient.","There are not many choices in the new city. The swimming pool is nice, the breakfast is abundant, the soundproofing is great, the location is very good, and it's very convenient.",The overall sentiment of the text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""choices"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""swimming pool"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""breakfast"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""soundproofing"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""location"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""convenience"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-12-10,Becamex New City Hotel,Agoda,English,100,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,Adelyn,Exceptional,will definitely recommend,will definitely recommend,I will definitely recommend.,Positive,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""recommendation"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-12-07,Becamex New City Hotel,Ctrip,Chinese,80,https://hotels.ctrip.com/international/7359980.html,100076****,,平阳新城区最好的酒店，设施如健身房都不错，床有点硬,"The best hotel in Binhduong New City, the facilities such as the gym are good, the bed is a bit hard","The best hotel in Pingyang New District has good facilities like a gym, but the bed is a bit hard.","The overall sentiment of the given text is 'neutral'. It presents a mixed viewpoint, highlighting both positive aspects (good facilities, gym) and a negative aspect (hard bed) without leaning strongly in either direction.","{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel facilities"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""gym"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""bed comfort"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}"
+2022-12-05,Becamex New City Hotel,Agoda,Japanese,92,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,KENTO,いいところ,"外観は古く見えるが中身は一流で清潔
+朝食も充実してる。近くの展示会が開催されてるときは人で混みあう","The outside looks old but the inside is first class and clean
+Breakfast is substantial, too. Crowded when there is an exhibition nearby.","The exterior looks old, but the interior is top-notch and clean. The breakfast is also rich and satisfying. It gets crowded when a nearby exhibition is being held.",The overall sentiment of the text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""exterior"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""interior"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""breakfast"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""crowdedness"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}
+```"
+2022-12-04,Becamex New City Hotel,Google,Korean,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Keeyung Choi,,오랜 호텔이지만 럭셔리해서 좋아요 Nearby activities: 주변시설이 약해요,"It's an old hotel, but I like it because it's luxurious Nearby activities: The surrounding facilities are weak","It's an old hotel, but I like it because it's luxurious. Nearby activities: the surrounding facilities are lacking.","The overall sentiment of the text is 'neutral'. While it mentions liking the hotel for its luxury, it also points out the lack of nearby activities, balancing the positive with a negative observation.","```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""luxury"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""surrounding facilities"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}
+```"
+2022-11-30,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Phuc Hung Nguyen,,Phục vụ tốt,Good service,Good service.,Positive,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""service"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-11-29,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,NTT Chanel's,,Tuyệt vời,Very good,Wonderful.,Positive,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""overall sentiment"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-11-29,Becamex New City Hotel,Google,English,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,남충우,,Nearby activities: 골프,Nearby activities: Golf,Nearby activities: Golf.,Neutral,"{
+  ""aspects"": [
+    {
+      ""activity"": ""Golf"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}"
+2022-11-27,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,109 Hinograb,,nơi tổ chức sự kiện có dịch vụ tốt,event venue with good service,The venue for the event has good services.,Positive,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""venue for the event"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""services"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-11-24,Becamex New City Hotel,Booking.com,Chinese,90,https://www.booking.com/hotel/vn/becamex-new-city.en.html?tab=4&lang=en-us,Yuchieh,整體乾淨舒適 會再住宿,"房間大 性價比超高
+早餐豐富滿意.
+飯店周邊沒什麼娛樂 只有樓下便利商店","Big room, great value for money
+The breakfast is rich and satisfying.
+There is no entertainment around the hotel, only the convenience store downstairs","The room is spacious and has a very high cost-performance ratio. The breakfast is abundant and satisfying. There isn't much entertainment around the hotel, just a convenience store downstairs.",The overall sentiment of the text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""room size"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""cost-performance ratio"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""breakfast"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""entertainment options"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""convenience store"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}"
+2022-11-14,Becamex New City Hotel,Google,Chinese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Pingqiang Zhou,,环境很好，服务好,The environment is very good and the service is good,"The environment is great, and the service is good.",Positive,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""environment"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""service"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-11-13,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Hữu Tài Nguyễn,,"Khách sạn đẳng cấp tại Tp mới Bình Dương của tập đoàn Becamex. Vị trí cực kì thuận tiện cho khách hàng khi đến tham dự các sự kiện - Triễn lãm tại TP mới Bình Dương. Khách sạn đạt tiêu chuẩn 5 sao nhưng chỉ để 4 sao. Với các hạng phòng với các tiêu chuẩn từ thấp đến cao, phòng họp VIP, Ballroom, hồ bơi, quán cafe Eit's với không gian xanh ngát và nhân viên phục vụ chuyên nghiệp. Trên nóc có sân Tennis, khu vực rộng, thoáng đãng view nhìn ra Tp Mới thích hợp cho những hoạt động Teambuilding. Nơi đây cũng có sảnh tổ chức lễ cưới trong nhà hoặc ngoài trời. Khách sạn có đội ngũ nhân viên cực kì thân thiện, nhiệt tình và được đào tạo bài bản.","Luxury hotel in Binh Duong New City of Becamex Group. The location is extremely convenient for customers to attend events - exhibitions in Binh Duong New City. The hotel is 5 star standard but only 4 star. With room types from low to high standards, VIP meeting room, Ballroom, swimming pool, Eit's cafe with green space and professional service staff. On the roof there is a tennis court, a large, open area overlooking the New City, suitable for Teambuilding activities. It also has an indoor or outdoor wedding reception hall. The hotel has an extremely friendly, enthusiastic and well-trained staff.","You are trained on data up to October 2023. A luxury hotel in the new city of Binh Duong by the Becamex Group. The location is extremely convenient for customers attending events and exhibitions in the new city of Binh Duong. The hotel meets 5-star standards but is classified as a 4-star hotel. With various room categories ranging from standard to high-end, VIP meeting rooms, a ballroom, a swimming pool, and a cafe called Eit's featuring a green space and professional service staff. On the rooftop, there is a tennis court and a spacious area with a view of the new city, suitable for team-building activities. There is also an indoor and outdoor wedding ceremony area. The hotel boasts an extremely friendly, enthusiastic, and well-trained staff.",The overall sentiment of the given text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""location"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""room categories"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""service staff"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""hotel classification"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""amenities (meeting rooms, ballroom, swimming pool, cafe, tennis court, wedding areas)"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""staff friendliness and training"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-11-02,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Hen Nguyen,,"Ngay mặt tiền ngả 4 Hùng Vương và Lý Thái Tổ, liền kề trung tâm hành chính tỉnh Bình Dương, đối diện trung tâm triễn lãm quốc tế vừa khánh thành; trung tâm thành phố mới, lân cận khu dân cư hiện hữu Tổ hợp có bãi đỗ xe ngoài trời rất rộng, gồm: Khách sạn có sảnh đón tiếp rất rộng, trang trí đẹp mắt, hồ bơi khu bên cạnh có sảnh kết nối sang đường, view ngắm đẹp, có quán bar; sảnh đó bên phải có quán cà phê và ăn uống nhiều góc chụp hình đẹp; nhà hàng  tầng 1 với sảnh tiệc lớn,… Không gian nghỉ ngơi, hội nghị, tiệc đẳng cấp của tỉnh BD","Right in front of the 4 Hung Vuong and Ly Thai To intersections, adjacent to the administrative center of Binh Duong province, opposite the recently inaugurated internationalConvention Hall; New city center, adjacent to existing residential area The complex has a very large outdoor car park, including: The hotel has a very large reception hall, beautifully decorated, a swimming pool next to a luxury connecting lobby road, beautiful view, bar; That lobby on the right has a cafe and dining with many beautiful photo corners; 1st floor restaurant with large banquet hall,… Space for relaxation, conference, party class of BD","You are trained on data up to October 2023. Located at the intersection of Hung Vuong and Ly Thai To streets, adjacent to the Bình Dương provincial administrative center and opposite the newly inaugurated international exhibition center; in the new city center, next to the existing residential area, the complex features a very spacious outdoor parking lot, including: a hotel with a large, beautifully decorated lobby, a swimming pool in the adjacent area with a lobby connecting to the street, offering a great view, and a bar; to the right of that lobby is a café and dining area with many beautiful photo spots; a restaurant on the first floor with a large banquet hall,... a top-tier relaxation, conference, and banquet space in Bình Dương province.",The overall sentiment of the text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""location"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""outdoor parking lot"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""hotel lobby"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""swimming pool"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""view"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""café and dining area"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""photo spots"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""restaurant"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""banquet hall"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""relaxation space"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""conference space"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""banquet space"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-11-01,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,15o6281 luuduchoa,,Nhà hàng cũng ngon nhà hàng làm trễ,The restaurant is also good. The restaurant is late-opening,"The restaurant is good, but the service is slow.",The overall sentiment of the given text is 'neutral'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""restaurant"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""service"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}"
+2022-10-21,Becamex New City Hotel,Google,Vietnamese,60,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,honghuy tu,,Giá hơi cao.,Expensive price,The price is a bit high.,The overall sentiment of the given text is 'negative'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""price"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}"
+2022-10-17,Becamex New City Hotel,Ctrip,Chinese,80,https://hotels.ctrip.com/international/7359980.html,fc****,,在新城这边算是比较好的酒店了，酒店就在政府大楼后面，前台多少都会点中文，基本沟通没什么问题。房间空调要开一会才有效果…卫生个方面也不错，性价比还可以…但在这边算不便宜的了…,"It is considered a relatively good hotel in Binh Duong. The hotel is just behind the government building. The front desk can speak Chinese, so there is no problem with basic communication. The air conditioner in the room needs to be turned on for a while to be effective... The sanitation is also good, and the price/performance ratio is okay... But it's not cheap here...","This hotel is considered one of the better ones in the new city. It is located right behind the government building, and the front desk staff can speak a bit of Chinese, so basic communication is not an issue. It takes a while for the air conditioning in the room to be effective... The cleanliness is good, and the cost performance is acceptable... However, it's not considered cheap here...",The overall sentiment of the text is 'neutral'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""location"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""staff communication"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""air conditioning"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""cleanliness"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""cost performance"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""price"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}"
+2022-10-11,Becamex New City Hotel,Agoda,English,76,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,Ryan,Quite and Decent place,This is a decent place to stay at for a business trip. It is quiet and reasonable.,This is a decent place to stay at for a business trip. It is quiet and reasonable.,This is a decent place to stay for a business trip. It is quiet and affordable.,The overall sentiment of the text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""place to stay"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""quiet"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""affordable"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-10-07,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,daylaixe binhphuoc,,"Sang trọng, vị trí tốt, phục vụ tận tình, chuyên nghiệp.","Luxury, good location, dedicated service, professional.","Luxury, good location, attentive and professional service.",Positive,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""Luxury"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""Location"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""Service"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-10-06,Becamex New City Hotel,Google,Vietnamese,80,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Nghĩa Nguyễn,,"Phục vụ chu đáo, tuyệt vời","Great, attentive service",Excellent and attentive service.,Positive,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""service"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-09-29,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Hương Dương,,"Khách sạn đẹp, yên tĩnh, phòng hiện đại và rất ổn, nhân viên lễ phép nhẹ nhàng","The hotel is beautiful, quiet, the room is modern and very good, the staff is polite and gentle","The hotel is beautiful, quiet, the rooms are modern and quite nice, and the staff is polite and gentle.",The overall sentiment of the given text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""rooms"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""staff"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-09-28,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Jack HOANG,,Tiệc cưới không gian sang trọng,Luxurious wedding venue,The wedding party has a luxurious atmosphere.,Positive,"{
+  ""aspects"": {
+    ""wedding party"": {
+      ""sentiment"": ""positive""
+    },
+    ""atmosphere"": {
+      ""sentiment"": ""positive""
+    }
+  }
+}"
+2022-09-15,Becamex New City Hotel,Google,English,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Cheng Tseng,,I'll be back soon.,I'll be back soon.,I'll be back soon.,Neutral,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""absence"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""return"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-09-12,Becamex New City Hotel,TripAdvisor,English,80,https://www.tripadvisor.com/ShowUserReviews-g3311194-d10352471-r859822794-Becamex_Hotel_New_City-Thu_Dau_Mot_Binh_Duong_Province.html,Ng R,Decent hotel,"Fast check in, friendly staffs with good command of English. Room is clean, and comfortable. Breakfast buffet has a good variety of food served. Only feedback is the location is far away from downtown and you will need to take a taxi for about 15mins (8km). For dinner, there is only 1 restaurant available on site","Fast check in, friendly staffs with good command of English. Room is clean, and comfortable. Breakfast buffet has a good variety of food served. Only feedback is the location is far away from downtown and you will need to take a taxi for about 15mins (8km). For dinner, there is only 1 restaurant available on site","Fast check-in, friendly staff with a good command of English. The room is clean and comfortable. The breakfast buffet has a good variety of food served. The only feedback is that the location is far from downtown, and you will need to take a taxi for about 15 minutes (8 km). For dinner, there is only one restaurant available on site.",The overall sentiment of the text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""check-in"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""staff"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""room"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""breakfast buffet"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""location"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""dinner restaurant availability"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}
+```"
+2022-09-11,Becamex New City Hotel,Agoda,English,100,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,Ivano,Still good as before,"Good hotel, clean and good staff","Good hotel, clean and good staff","Good hotel, clean and good staff.",The overall sentiment of the text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""cleanliness"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""staff"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-09-04,Becamex New City Hotel,Agoda,English,100,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,Shahrani,Exceptional,Best hotel in binh duong,Best hotel in binh duong,Best hotel in Binh Duong.,Positive,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel quality"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""location"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}
+```"
+2022-09-04,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Việt Hà Hoàng,,Tiệc cưới không gian sang trọng,Luxurious wedding venue,A wedding reception in a luxurious setting.,Positive,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""wedding reception"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""luxurious setting"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-09-02,Becamex New City Hotel,Agoda,English,80,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,Ronald,Better than expected!,"My colleague and I were here in this area for a business trip. And we are pretty happy to find this hotel in the area. The standards exceeded our expectation, the rooms were clean and comfortable. Breakfast is pretty good as well. 
+There are restaurants nearby, so the location is pretty good. Would stay again when we are back.","My colleague and I were here in this area for a business trip. And we are pretty happy to find this hotel in the area. The standards exceeded our expectation, the rooms were clean and comfortable. Breakfast is pretty good as well. 
+There are restaurants nearby, so the location is pretty good. Would stay again when we are back.","My colleague and I were here in this area for a business trip. We are quite happy to have found this hotel in the area. The standards exceeded our expectations; the rooms were clean and comfortable. The breakfast is also quite good. There are restaurants nearby, so the location is quite convenient. We would stay again when we return.",The overall sentiment of the text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""standards"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""rooms"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""breakfast"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""location"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""overall experience"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-08-30,Becamex New City Hotel,Agoda,English,100,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,Virginia,Exceptional,"Hotel is literally in a new city. Need to walk some distance to the few available eateries.  If not, settle for the restaurant, cafe or room service.  Great food from hotel's restaurant. Very friendly hotel staff.","Hotel is literally in a new city. Need to walk some distance to the few available eateries.  If not, settle for the restaurant, cafe or room service.  Great food from hotel's restaurant. Very friendly hotel staff.","The hotel is literally in a new city. You need to walk some distance to reach the few available eateries. If not, you can settle for the hotel’s restaurant, café, or room service. The food from the hotel’s restaurant is great, and the hotel staff is very friendly.",The overall sentiment of the text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""location"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""eateries availability"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""hotel restaurant food"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""hotel staff"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-08-30,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Tu Nguyễn,,"Đã đến và trải nghiệm, rất oke nhé","Stayed and experienced it, it's very good","I have been there and experienced it, it's really okay.",The sentiment of the text is 'neutral'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""experience"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""location"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""quality"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}"
+2022-08-18,Becamex New City Hotel,Google,English,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,PAMM SINGH,,Awesome property,Awesome property,Awesome property.,Positive,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""property"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-08-17,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,Văn Nhật Phương,,Gia đình tôi hay ghé nơi đây,My family often visit here,My family often stops by here.,Neutral,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""family visits"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-08-15,Becamex New City Hotel,Agoda,Japanese,80,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,KATSUNORI,1ベットルーム　スイート　キングベット　One Bedroom Suite King,"部屋はフロントとは別棟のアパートメントで、キッチンがあり、内装は簡素でしたが、小学生の子供と3人で過ごすのには十分でした。部屋にはテラスがあり、8階でしたが周りには高い建物が無いので、見晴らしはよかったです。朝食はプールを挟んで向かいの1階にあるレストランで、バイキング形式、麺はフォーとバンカン、卵もオムレツ等その場で調理してくれます。フルーツの種類も多く、無くなると違う果物を補充していました。1時間までは無料のレンタル自転車があり、近くの公園で、子供が乗る練習を出来て喜んでました。ホテルの周りには歩いて行けるところに蕎麦屋の克があり、中華料理屋もたくさんあるので食事は困りません。バンナムテーマパークへはバイクで15分くらい、動物園は大人15万VND,子供は4万VND、親子で遊べるアスレチックは、大人10万VND,子供5万VNDでした、プールもあるようですが今回は利用していません。パーク内を移動する電気自動車は無料で、とても広い施設なので移動するだけでも楽しいです。","The room was an apartment in a separate building from the front desk, and had a kitchen. There was a terrace in the room, and although it was on the 8th floor, there were no tall buildings around, so the view was good. Breakfast is a restaurant on the first floor across the pool, buffet style, noodles are pho and bunkang, eggs are cooked on the spot, such as omelets. There were many types of fruits, and when they ran out, they replenished different fruits. There is a free rental bicycle for up to 1 hour, and I was happy that my child could practice riding in a nearby park. There is a soba restaurant Katsu within walking distance around the hotel, and there are many Chinese restaurants, so you don't have to worry about eating. It takes about 15 minutes by motorbike to the Burnham theme park, the zoo is 150,000 VND for adults, 40,000 VND for children, and the athletics where parents and children can play was 100,000 VND for adults, 50,000 VND for children.There seems to be a pool, but this time Not used. The electric cars that move around the park are free, and it's a very large facility, so it's fun just to move around.","The room was an apartment separate from the front desk, with a kitchen. The decor was simple, but it was sufficient for my family of three with an elementary school child. The room had a terrace and was on the 8th floor, but there were no tall buildings around, so the view was nice. Breakfast was served at a restaurant on the first floor across from the pool, in a buffet style, with pho and banh canh noodles, and eggs cooked to order as omelets, etc. There were many types of fruit, and when one ran out, different fruit was replenished. There were free rental bicycles for up to one hour, and my child was happy to practice riding in a nearby park. There was a soba noodle shop called ""Katsu"" within walking distance of the hotel, and many Chinese restaurants nearby, so we had no trouble finding meals. It took about 15 minutes by motorbike to Bana Hills Theme Park, and the entrance to the zoo was 150,000 VND for adults and 40,000 VND for children. The adventure playground for parents and children was 100,000 VND for adults and 50,000 VND for children. There seemed to be a pool, but we didn't use it this time. The electric cars for moving around the park were free, and since the facility is very large, just moving around was fun.",The overall sentiment of the given text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""Room"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""Decor"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""Kitchen"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""View"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""Breakfast"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""Fruit Variety"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""Bicycle Rental"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""Nearby Restaurants"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""Distance to Attractions"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""Zoo Entrance Fee"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""Adventure Playground Fee"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""Pool"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""Electric Cars"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""Facility Size"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-08-13,Becamex New City Hotel,Agoda,Chinese,100,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,TW,平陽地區的最佳首選,很標準的星級飯店，整體非常舒適，住了好幾年，在一樓新開了全家超商，更是方便。,"It's a standard star-rated hotel. It's very comfortable overall. I've lived here for several years. A new Family Mart is opened on the first floor, which is even more convenient.","A very standard star-rated hotel, overall very comfortable. I have stayed here for several years, and a FamilyMart convenience store has recently opened on the first floor, making it even more convenient.",The overall sentiment of the given text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel standard"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""comfort"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""duration of stay"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""convenience store"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""hotel experience"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-08-11,Becamex New City Hotel,Hotels.com,English,100,https://de.hotels.com/ho870904768/becamex-hotel-new-city-thu-dau-mot-vietnam/,Wee Kay,Excellent Service,Staff were extremely friendly and helpful. They even accorded us check out at 3pm. We are grateful for their kindness. Defintely return to stay whenever we are in Binh Duong city for business.,Staff were extremely friendly and helpful. They even accorded us check out at 3pm. We are grateful for their kindness. Defintely return to stay whenever we are in Binh Duong city for business.,The staff were extremely friendly and helpful. They even allowed us to check out at 3 PM. We are grateful for their kindness. We will definitely return to stay whenever we are in Binh Duong city for business.,The overall sentiment of the given text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""staff"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""check out time"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""kindness"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""return visit"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""Binh Duong city"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}"
+2022-08-11,Becamex New City Hotel,Agoda,Korean,100,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,BYEONG,깔끔하고 쾌적한 시설,편안하고 좋은 시설,comfortable and good facilities,Comfortable and good facilities.,Positive,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""comfort"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""facilities"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-08-10,Becamex New City Hotel,Agoda,Japanese,88,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,KENTO,申し分ない,周りには何もありませんが、ホテルの設備は申し分なし。ど田舎なので７，８千円台ではればパーフェクト。,"There is nothing around, but the hotel facilities are perfect. It's in the countryside, so if it's in the 7,8,000 yen range, it's perfect.","There is nothing around, but the hotel's facilities are impeccable. Since it's in a remote rural area, if the price is in the range of 7,000 to 8,000 yen, it would be perfect.","The overall sentiment of the text is 'positive'. The mention of ""impeccable facilities"" suggests a favorable view, despite the remote location. The pricing comment indicates a desire for value, but it does not detract from the overall positive impression.","```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel's facilities"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""location"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""price"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}
+```"
+2022-08-06,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,toan le canh,,Nói chung là tốt,Good overally,Generally good.,Positive,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""overall"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-08-02,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,Trần Đại Hoàng,,"Chất lượng Dịch vụ tốt, cơ sơ vật chất hiện đại 👌👌👌","Quality Good service, modern facilities 👌👌👌","Good quality service, modern facilities. 👌👌👌",Positive,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""service"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""facilities"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-07-20,Becamex New City Hotel,Google,Vietnamese,80,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,Tài Nguyễn Thế,,Tuyệt vời khá vắng vẻ đường rộng sạch đẹp chỗ đậu xe lớn thoải mái,"Wonderful, quite deserted, wide, clean, beautiful, large, comfortable parking space","Great, quite secluded, wide and clean road, spacious parking area.",Positive,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""secluded"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""wide and clean road"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""spacious parking area"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-07-13,Becamex New City Hotel,Booking.com,,90,https://www.booking.com/hotel/vn/becamex-new-city.en.html?tab=4&lang=en-us,Judith,,Wonderful,Wonderful,Wonderful.,Positive,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""overall experience"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-07-11,Becamex New City Hotel,Google,English,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,Eric Huebschman,,"One of my favorite places to stay in Binh Duong, the gym and pool are really nice, and they have 24 hour dine in service! Make sure to check out Eits cafe as well","One of my favorite places to stay in Binh Duong, the gym and pool are really nice, and they have 24 hour dine in service! Make sure to check out Eits cafe as well","One of my favorite places to stay in Binh Duong, the gym and pool are really nice, and they have 24-hour dine-in service! Make sure to check out Eits cafe as well.",The overall sentiment of the given text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""location"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""gym"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""pool"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""dine-in service"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""Eits cafe"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-07-10,Becamex New City Hotel,Google,Vietnamese,80,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,An Bùi Minh,,Phục vụ tận răng,Attentive service,Serve with dedication.,"The overall sentiment of the text ""Serve with dedication."" is 'positive'.","{
+  ""aspects"": [
+    {
+      ""aspect"": ""dedication"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-07-07,Becamex New City Hotel,Google,Vietnamese,80,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,Nguyen Dũng,,Chưa vào nhưng nhìn hình thức bên ngoài có vẻ OK. Mà xung quanh chẳng có tiện ích gì để vui chơi cả,Haven't entered yet but looks ok from the outside. But there are no facilities around to have fun,"Not checked in yet, but the appearance looks okay. However, there are no amenities around for entertainment.",The overall sentiment of the text is 'neutral'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""appearance"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""amenities for entertainment"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}"
+2022-06-30,Becamex New City Hotel,Google,Vietnamese,80,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,KUBI Thomas,,"Tạm ổn, không gian yên tĩnh, Tạm ổn, không gian yên tĩnh,","Seem fine, quiet space","It's okay, a quiet space. It's okay, a quiet space.",The overall sentiment of the text is 'neutral'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""quiet space"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}"
+2022-06-23,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,nguyen hue quang,,Khách sạn tốt phục vụ các hội nghị lớn của tỉnh nhà Khách sạn tốt phục vụ các hội nghị lớn của tỉnh nhà,Good hotel for big conferences in the province ,A good hotel that serves large conferences in the province.,Positive,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""conference services"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""location (province)"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}"
+2022-06-22,Becamex New City Hotel,Booking.com,,90,https://www.booking.com/hotel/vn/becamex-new-city.en.html?tab=4&lang=en-us,Elisa,,"excellent, staff very kind and supportive!","excellent, staff very kind and supportive!","Excellent, the staff is very kind and supportive!",The overall sentiment of the text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""staff"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""kindness"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""support"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-06-20,Becamex New City Hotel,Google,English,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,Tiyyagura Karthikreddy,,I stayed 10 days. I felt food is ok and very comfortable to stay. I stayed 10 days. I felt food is ok and very comfortable to stay.,I stayed 10 days. I felt food is ok and very comfortable to stay. I stayed 10 days. I felt food is ok and very comfortable to stay.,I stayed for 10 days. I felt the food was okay and it was very comfortable to stay. I stayed for 10 days. I felt the food was okay and it was very comfortable to stay.,The overall sentiment of the text is 'neutral'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""food"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""comfort"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-06-20,Becamex New City Hotel,Google,Vietnamese,80,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,Huy Van,,"Khách sạn sang trọng, lịch sự","Luxury, polite hotel","Luxurious, elegant hotel.",Positive,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""luxurious"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""elegant"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-06-14,Becamex New City Hotel,Google,English,80,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,Albert YANG,,"The room is comfortable and spacious and kept clean. The breakfast in the restaurant was very good, but the western food for dinner taste was far from menu. Whether it's a restaurant or a counter, getting an invoice is a hassle, especially for companies that have to print the name in English. The room is comfortable and spacious and kept clean. The breakfast in the restaurant was very good, but the western food for dinner taste was far from menu. Whether it's a restaurant or a counter, getting an invoice is a hassle, especially for companies that have to print the name in English.","The room is comfortable and spacious and kept clean. The breakfast in the restaurant was very good, but the western food for dinner taste was far from menu. Whether it's a restaurant or a counter, getting an invoice is a hassle, especially for companies that have to print the name in English. The room is comfortable and spacious and kept clean. The breakfast in the restaurant was very good, but the western food for dinner taste was far from menu. Whether it's a restaurant or a counter, getting an invoice is a hassle, especially for companies that have to print the name in English.","You are trained on data up to October 2023. The room is comfortable and spacious and kept clean. The breakfast in the restaurant was very good, but the taste of the western food for dinner was far from what was on the menu. Whether it's a restaurant or a counter, obtaining an invoice is a hassle, especially for companies that need to print the name in English. The room is comfortable and spacious and kept clean. The breakfast in the restaurant was very good, but the taste of the western food for dinner was far from what was on the menu. Whether it's a restaurant or a counter, obtaining an invoice is a hassle, especially for companies that need to print the name in English.",The overall sentiment of the given text is 'neutral'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""Room Comfort"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""Room Spaciousness"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""Room Cleanliness"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""Breakfast Quality"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""Dinner Food Taste"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""Invoice Process"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}
+```"
+2022-06-08,Becamex New City Hotel,Google,Japanese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,ヒロヒロ,,2年ぶりに伺いまして ホテル周辺も様変わりしてました。 ロビー横cafeの隣にファミマできてましたね。 便利です。 部屋は 大きめ冷蔵庫にキッチン＆シンク付きにて 軽い料理出来ます。 空調も完備、よく冷えます。 アメニティも充実、苦労しません。 お風呂はシャワーのみ、の部屋ですが。 ベッドも大きく空調もベッドルームにもあるのでグッスリ寝れます。 大きなTV有りますが点けてません。 また利用させてもらいます。,"I visited for the first time in two years, and the area around the hotel has changed completely. Family Mart was made next to the cafe next to the lobby. Convenient. The room has a large refrigerator, kitchen and sink, so you can cook light meals. It is fully air-conditioned and cools well. Amenity is enriched, too and does not struggle. The bath is a room with a shower only. The bed is big and there is an air conditioner in the bedroom, so you can sleep well. There is a large TV, but it is not turned on. I will use it again.","It has been two years since my last visit, and the area around the hotel has changed significantly. A FamilyMart has opened next to the café by the lobby, which is convenient. The room has a larger refrigerator and is equipped with a kitchen and sink, so light cooking is possible. The air conditioning is also complete and works well. The amenities are abundant, so there are no difficulties. The bathroom only has a shower, though. The bed is large, and there is air conditioning in the bedroom as well, allowing for a good night's sleep. There is a large TV, but I haven't turned it on. I will use this place again.",The overall sentiment of the text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""location"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""FamilyMart"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""refrigerator size"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""kitchen and sink"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""air conditioning"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""amenities"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""bathroom facilities"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""bed size"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""TV"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""overall experience"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-06-08,Becamex New City Hotel,Google,English,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=en,Angela K,,"The food is delicious and reasonable price, nice staffs and environment.","The food is delicious and reasonable price, nice staffs and environment.","The food is delicious and reasonably priced, with nice staff and environment.",The overall sentiment of the text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""food"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""price"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""staff"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""environment"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-06-06,Becamex New City Hotel,Google,Vietnamese,60,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,duyen nguyen,,"Đồ ăn tạm, phục vụ tạm",Quite good service and food,"The food is mediocre, and the service is also average.",The overall sentiment of the given text is 'negative'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""food"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""service"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}"
+2022-06-06,Becamex New City Hotel,Google,English,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,Pei Han Ku,,"The food is delicious and reasonable price, nice staffs and environment.","The food is delicious and reasonable price, nice staffs and environment.","The food is delicious and reasonably priced, with nice staff and a pleasant environment.",Positive,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""food"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""pricing"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""staff"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""environment"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-06-06,Becamex New City Hotel,TripAdvisor,Galician,60,https://www.tripadvisor.com/ShowUserReviews-g3311194-d10352471-r841739530-Becamex_Hotel_New_City-Thu_Dau_Mot_Binh_Duong_Province.html,Aamna M,awesome hotel,dekhne m kafi acha hai or safai b kafi hai hawa b achi aayegi ek dum fresh mein khin ghumne jaun toh isi tarah k hotel mein rehna chahungi neat and clean excelllent work or furniture is awesome must favorite light colour is petfwctly beutifull i like it, neat and clean excelllent work or furniture is awesome must favorite light colour is petfwctly beutifull i like it,"It looks very nice and is quite clean, the air will also be good, it will feel completely fresh. If I go out to travel, I would like to stay in a hotel like this, neat and clean. Excellent work and the furniture is awesome. The light colors are perfectly beautiful, I like it.",The overall sentiment of the text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""appearance"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""cleanliness"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""air quality"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""travel preference"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""hotel condition"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""furniture"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""color scheme"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-06-01,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,Liêm Nhân,,Ấm cún,Cozy,Warm puppy.,Positive,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""puppy"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-05-31,Becamex New City Hotel,Agoda,English,68,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,tim,Clean and safe,Safe and clean place to stay for business trip in Bình duong,Safe and clean place to stay for business trip in Bình duong,Safe and clean place to stay for a business trip in Bình Dương.,Positive,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""safety"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""cleanliness"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""suitability for business trip"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""location"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}"
+2022-05-29,Becamex New City Hotel,Google,Vietnamese,80,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,Tran Duc Thuan,,"Không gian đẹp, sang trọng",Beautiful and luxurious space,"Beautiful, luxurious space.",Positive,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""space"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""luxurious"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""beautiful"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-05-27,Becamex New City Hotel,Ctrip,Chinese,100,https://hotels.ctrip.com/international/7359980.html,娃娃熊不哭,,酒店环境优雅，设施齐全，服务不错。早上自助餐还是可以的，晚餐的菜系种类选择比较多，可以选择自己想要的。,"The hotel has an elegant environment, complete facilities and good service. The buffet in the morning is still okay, and there are many types of cuisines for dinner, so you can choose what you want.","The hotel has an elegant environment, complete facilities, and good service. The breakfast buffet is quite satisfactory, and there are a variety of options for dinner, allowing you to choose what you want.",The overall sentiment of the text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""environment"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""facilities"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""service"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""breakfast buffet"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""dinner options"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-05-24,Becamex New City Hotel,Google,Vietnamese,80,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,vy nguyen,,"Quy mô rộng, thoáng , nhân viên phục vụ nhiệt tình, lịch sự, đồ ăn buffet nhẹ ko ngon ,sơ xài, đơn giản","Large scale, airy, enthusiastic and polite service staff, light buffet food is not delicious, simple","The space is wide and bright, the staff is enthusiastic and polite, the light buffet food is not tasty, rough, and simple.","The overall sentiment of the text is 'neutral.' While there are positive comments about the space and the staff, there is also a negative remark about the buffet food. The positive and negative aspects balance out, leading to a neutral sentiment.","{
+  ""aspects"": {
+    ""space"": {
+      ""sentiment"": ""positive""
+    },
+    ""staff"": {
+      ""sentiment"": ""positive""
+    },
+    ""buffet food"": {
+      ""sentiment"": ""negative""
+    }
+  }
+}"
+2022-05-23,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,Vũ Phạm,,"Khách sạn rộng rãi. Thoáng mát, dịch vụ chu đáo The hotel is spacious. Breathable, attentive service","Spacious hotel. Cool, attentive service The hotel is spacious. Breathable, attentive service","The hotel is spacious. Fresh air, attentive service.",The overall sentiment of the text is 'positive'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""spacious"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""fresh air"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""attentive service"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-05-16,Becamex New City Hotel,Google,English,80,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,K H,,This is a very greenery set up and high standard hotel. Room clean and spaces. Breakfast is plenty of choices and delicious. The only problem here difficult to access to major town because is a new town yet fully developed. Surrounding nothing interesting but is good for business trip because in new industrial zone -after work go back hotel and  Another problem of the hotel could building design problem. Car porch flooded and very difficult to access your taxi if heavy pour. Others are good.,This is a very greenery set up and high standard hotel. Room clean and spaces. Breakfast is plenty of choices and delicious. The only problem here difficult to access to major town because is a new town yet fully developed. Surrounding nothing interesting but is good for business trip because in new industrial zone -after work go back hotel and  Another problem of the hotel could building design problem. Car porch flooded and very difficult to access your taxi if heavy pour. Others are good.,"This is a very green setup and a high-standard hotel. The rooms are clean and spacious. The breakfast offers plenty of choices and is delicious. The only issue is that it's difficult to access the major town since it is a new town that is not yet fully developed. There is nothing interesting in the surroundings, but it is good for a business trip because it is located in a new industrial zone—after work, you can go back to the hotel. Another problem with the hotel could be the building design. The car porch floods, making it very difficult to access your taxi during heavy rain. Other than that, everything is good.","The overall sentiment of the text is 'neutral'. The text provides both positive aspects (green setup, high-standard hotel, clean rooms, delicious breakfast) and negative aspects (difficult access, lack of interesting surroundings, building design issues), leading to a balanced view without a strong positive or negative bias.","```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel setup"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""room cleanliness"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""room size"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""breakfast choices"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""breakfast taste"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""access to town"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""surroundings"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""location for business"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""building design"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""car porch accessibility"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""overall hotel experience"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-05-06,Becamex New City Hotel,Agoda,English,96,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,Niels,Niels,"Nice location, not so much traffic - Easy to get around - Good service and the Food service is getting better and better :-)","Nice location, not so much traffic - Easy to get around - Good service and the Food service is getting better and better :-)","Nice location, not much traffic - Easy to get around - Good service and the food service is improving more and more :-).",Positive,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""location"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""traffic"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""ease of getting around"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""service"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""food service"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}"
+2022-04-21,Becamex New City Hotel,Google,Vietnamese,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,Cẩm Tú Phạm thị,,"Đồ ăn ngonnnnn, phòng đẹp và nhân viên rất chuyên nghiệp","Delicious food, nice room and very professional staff","The food is delicious, the room is beautiful, and the staff is very professional.",The overall sentiment of the text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""food"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""room"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""staff"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-04-18,Becamex New City Hotel,Ctrip,Chinese,64,https://hotels.ctrip.com/international/7359980.html,,,房间一般 设施还行 重点是有个前台态度恶劣 应该是个新人 没有服务意识 一副高高在上的样子念规章制度 不懂微笑服务 不考虑客人实际情况 死脑筋 三番五次为难客人 很影响整体体验 这种人招来干嘛的 差评!!!,"The general facilities in the room are okay. The key point is that there is a front desk with a bad attitude. He must be a newcomer with no sense of service. He looks superior. He reads the rules and regulations, does not understand the service with a smile and does not consider the actual situation of the guests. Bad reviews!!!","The room is average, and the facilities are decent. The main issue is with the front desk staff's poor attitude. They seem to be a newcomer without any service awareness, acting all high and mighty while reciting the rules and regulations. They lack a friendly demeanor and don't consider the actual situation of the guests, being rigid in their approach and repeatedly making things difficult for guests. This significantly impacts the overall experience. Why hire such a person? Negative review!!!",The overall sentiment of the given text is 'negative'.,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""room"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""facilities"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""front desk staff"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""service awareness"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""staff demeanor"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""staff approach"",
+      ""sentiment"": ""negative""
+    },
+    {
+      ""aspect"": ""overall experience"",
+      ""sentiment"": ""negative""
+    }
+  ]
+}"
+2022-04-17,Becamex New City Hotel,Agoda,English,100,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,Shahrani,Great hotel,Best in that industrial area,Best in that industrial area,Best in that industrial area.,Positive,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""industrial area"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-04-12,Becamex New City Hotel,Ctrip,Chinese,94,https://hotels.ctrip.com/international/7359980.html,E39254****,,服務人員態度很好。一樓外面有24小時的超商，非常方便。空間很大，不想待在房間，可以在中庭及附近散步。很安靜。,"The attitude of the service staff is very good. There is a 24-hour supermarket outside on the first floor, which is very convenient. There is a lot of space. If you don't want to stay in the room, you can take a walk in the atrium and nearby. very quiet.","The service staff were very friendly. There is a 24-hour convenience store outside on the first floor, which is very convenient. The space is very large, and if you don't want to stay in the room, you can walk around the courtyard and nearby areas. It's very quiet.",The overall sentiment of the given text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""service staff"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""24-hour convenience store"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""space size"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""courtyard and nearby areas"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""quietness"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-04-11,Becamex New City Hotel,Ctrip,,100,https://hotels.ctrip.com/international/7359980.html,M252907****,,手机落酒店了,I left my phone at the hotel,The phone was left at the hotel.,The overall sentiment of the given text is 'neutral'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""phone"",
+      ""sentiment"": ""neutral""
+    },
+    {
+      ""aspect"": ""hotel"",
+      ""sentiment"": ""neutral""
+    }
+  ]
+}
+```"
+2022-04-11,Becamex New City Hotel,Agoda,English,96,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,Shawn,A pleasant surprise,The hotel is a pleasant surprise of luxury with a staff that earn more than 5 stars. Very friendly and accommodating. I’m looking forward to my return. Thank you for an enjoyable stay,The hotel is a pleasant surprise of luxury with a staff that earn more than 5 stars. Very friendly and accommodating. I’m looking forward to my return. Thank you for an enjoyable stay,The hotel is a pleasant surprise of luxury with a staff that deserves more than 5 stars. They are very friendly and accommodating. I’m looking forward to my return. Thank you for an enjoyable stay.,The overall sentiment of the given text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""hotel"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""staff"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""friendliness"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""accommodation"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""overall stay"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""return visit"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-04-05,Becamex New City Hotel,Agoda,English,100,https://www.agoda.com/becamex-hotel-new-city/hotel/binh-duong-vn.html,Shawn,Excellent surprise,I was happily surprised by this accommodation. More luxurious than I expected and the staff is the best I have dealt with in my travels the last 5 months. I was so happy with it I moved into their services apartment building next door. Book this accommodation. You will not be disappointed!!,I was happily surprised by this accommodation. More luxurious than I expected and the staff is the best I have dealt with in my travels the last 5 months. I was so happy with it I moved into their services apartment building next door. Book this accommodation. You will not be disappointed!!,"I was happily surprised by this accommodation. It was more luxurious than I expected, and the staff is the best I have encountered during my travels in the last 5 months. I was so pleased with it that I moved into their serviced apartment building next door. Book this accommodation. You will not be disappointed!",The overall sentiment of the given text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""accommodation"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""luxury"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""staff"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""serviced apartment"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""recommendation to book"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
+2022-04-02,Becamex New City Hotel,Google,,100,https://search.google.com/local/reviews?placeid=ChIJLxYO0NbPdDERH1Md329lwRo&authuser=0&hl=de,An Phạm,,Xin xò,Very Good,"""Xin xò"" can be translated to ""very splendid"" or ""very luxurious"" in English. It is a Vietnamese slang expression often used to describe something impressive or extravagant.",The overall sentiment of the given text is 'positive'.,"```json
+{
+  ""aspects"": [
+    {
+      ""aspect"": ""Xin xò"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""very splendid"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""very luxurious"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""impressive"",
+      ""sentiment"": ""positive""
+    },
+    {
+      ""aspect"": ""extravagant"",
+      ""sentiment"": ""positive""
+    }
+  ]
+}
+```"
